@@ -1,4 +1,4 @@
-# IMGW Weather Reporter - Wydania (Releases)
+# IMGW Weather Reporter - Wydania
 
 Publiczne repozytorium wydań dla aplikacji **IMGW Weather Reporter** - asystenta pogodowego dla lotnictwa.
 
@@ -36,7 +36,7 @@ Program jest udostępniany całkowicie bezpłatnie jako oprogramowanie **Freewar
 
 ---
 
-## ⚠️ Ostrzeżenie i Nota Prawna (Disclaimer)
+## ⚠️ Ostrzeżenie i Nota Prawna
 
 Raporty generowane przez program mają charakter wyłącznie poglądowy i informacyjny. Dane są pobierane z publicznych serwisów IMGW-PIB. Program nie jest oficjalnym oprogramowaniem IMGW-PIB.
 
