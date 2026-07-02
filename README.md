@@ -1,6 +1,6 @@
 # IMGW Weather Reporter - Wydania
 
-Publiczne repozytorium wydań dla aplikacji **IMGW Weather Reporter** - asystenta pogodowego dla lotnictwa.
+Publiczne repozytorium wydań dla aplikacji **IMGW Weather Reporter** – asystenta pogodowego dla lotnictwa.
 
 Służy ona do automatycznego pobierania lotniczych danych meteorologicznych bezpośrednio ze stron **IMGW-PIB (Awiacja)** oraz generowania estetycznych, zbiorczych raportów w formacie PDF.
 
@@ -27,6 +27,16 @@ Zawsze aktualną wersję instalatora dla systemu Windows (x64) pobierzesz w sekc
 ## 🛠️ UWAGA
 
 **Aplikacja nie posiada płatnego certyfikatu podpisu cyfrowego (jest udostępniana całkowicie za darmo), w związku z czym system Windows może wyświetlić ostrzeżenie podczas pierwszego uruchomienia instalatora.**
+
+---
+
+## ☕ Wsparcie Projektu
+
+Program jest w pełni darmowy i nie zawiera reklam. Jeśli aplikacja ułatwia Ci codzienne planowanie, możesz wesprzeć jej rozwój, stawiając autorowi wirtualną kawę:
+
+<a href="https://www.buymeacoffee.com/filczynski" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
+</a>
 
 ---
 
